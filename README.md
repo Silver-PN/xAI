@@ -1,1 +1,3 @@
-# xAI
+# Introduction
+- This is a XAI project for our final class, we implemented XAI quantitative evaluation metrics like IOU, Precision, Recall,.. based on this paper [XAI Benchmark for Visual Explanation](https://arxiv.org/abs/2310.08537)
+- We chose an new published Agriculture dataset named WeedAndCrop, you can check out for more detail here: [The CropAndWeed Dataset](https://github.com/cropandweed/cropandweed-dataset)
