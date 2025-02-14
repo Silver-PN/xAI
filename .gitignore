@@ -33,7 +33,7 @@ share/python-wheels/
 MANIFEST
 
 # Custom
-*.png
-*.jpg
-*.pkl
+/src/*.png
+/src/*.jpg
+/src/*.pkl
 
