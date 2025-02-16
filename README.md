@@ -10,7 +10,7 @@
   ![folder structure](png/folder_structure.png)
 - after extracted, your `dataset` folder will have 4 folders like below
 ![dataset folder structure](png/dataset_folder_structure.png)
-- In `download_dataset.py` and `download_dataset.py`, you have folders containing variant annotation like: CropOrWeed2, CropsOrWeed9. 
+- In `labelIds` and `bboxes` folder, you have folders containing variant annotation like: CropOrWeed2, CropsOrWeed9. 
 ![annotation structure](png/annotation_structure.png)
 ##  Step 2: Use map_dataset.py to convert between annotation variants
 - Go into `setup.ipynb`, it already includes all parameters you need to convert between annotations 
